@@ -5,3 +5,4 @@
 > Implementação no index.html e no style.css com informações do currículo
 - 3ª fase da Jornada Dev.
 > Incrementação de informações ao currículo
+
