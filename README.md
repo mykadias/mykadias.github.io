@@ -7,3 +7,6 @@
 > Incrementação de informações ao currículo.
 - 4ª fase da Jornada Dev.
 > Implementando informações acadêmicas ao currículo.
+- 5ª fase da Jornada Dev.
+> Adicionando certificações ao currículo.
+
